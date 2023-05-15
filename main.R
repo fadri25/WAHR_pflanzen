@@ -1,1 +1,2 @@
-# Huptdokument für R
+# Hauptdokument für R
+vector <- c(3)
